@@ -1,0 +1,9 @@
+# Ignore .pyc files
+*.pyc
+
+# Ignore .zip files
+*.zip
+
+# Ignore .sqlite3 files
+*.sqlite3
+
